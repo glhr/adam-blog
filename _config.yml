@@ -1,4 +1,5 @@
-title: Student portfolio - Forsan British School
+title: Student portfolio
+subtitle: Forsan British School
 email: grenblot@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Compilation of work created by students during IT class (2018/2019).
@@ -15,7 +16,7 @@ about-author: I code and teach a little.
 email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+linkedin: gl-hr # Add your Linkedin handle
 github: glhr # Add your Github handle
 twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
