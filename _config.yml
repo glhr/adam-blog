@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: glhr # add your name
-author-pic: adam-face.jpg
+author-pic: face.jfif
 about-author: I code and teach a little.
 
 # Contact links
@@ -16,8 +16,8 @@ email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: glhr # Add your Github handle
+twitter: '@glhr0' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
