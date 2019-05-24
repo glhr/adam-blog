@@ -2,7 +2,7 @@ title: Student portfolio
 subtitle: Forsan British School
 email: grenblot@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Compilation of work created by students during IT class (2018/2019).
+  Compilation of work created by students during IT class at Forsan British School (2018/2019).
 permalink: ':title/'
 baseurl: "/student-portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

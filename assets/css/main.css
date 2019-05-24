@@ -439,7 +439,8 @@ abbr[title] {
   /* 1 */
   text-decoration: underline;
   /* 2 */
-  text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
   /* 2 */
 }
 
@@ -834,6 +835,7 @@ pre code {
   min-height: 100vh;
   -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+  -o-transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
   transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99), -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
 }
@@ -913,16 +915,19 @@ pre code {
 }
 
 .main-header .logo {
-  width: 50%;
+  width: 100%;
   text-align: center;
 }
 
 .main-header .logo a {
   text-decoration: none;
-  text-transform: uppercase;
-  font-size: 27px;
+  font-size: 22px;
   font-weight: 300;
   color: #311e3e;
+}
+
+.main-header .logo .subtitle {
+  font-size: 16px;
 }
 
 .main-nav {
@@ -981,6 +986,7 @@ pre code {
   font-size: 18px;
   color: #311e3e;
   -webkit-transition: all .4s;
+  -o-transition: all .4s;
   transition: all .4s;
   padding: 10px;
 }
@@ -1003,6 +1009,7 @@ pre code {
   z-index: 100;
   background: #fff;
   -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
   -webkit-transform: translate(0, -100%) scale(0, 0);
       -ms-transform: translate(0, -100%) scale(0, 0);
@@ -1076,6 +1083,7 @@ pre code {
   float: left;
   width: 50%;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1091,7 +1099,8 @@ pre code {
   display: block;
   width: 100%;
   min-height: 150px;
-  background-size: cover;
+  -webkit-background-size: cover;
+          background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1288,6 +1297,7 @@ pre code {
   margin-left: 0.5%;
   margin-bottom: 0.5%;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1384,6 +1394,7 @@ pre code {
           border-radius: 2px;
   outline: none;
   -webkit-transition: all .3s;
+  -o-transition: all .3s;
   transition: all .3s;
 }
 
@@ -1520,6 +1531,7 @@ pre code {
   text-decoration: none;
   padding: 5px;
   -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
 
@@ -1725,6 +1737,7 @@ pre code {
     text-decoration: none;
     padding: 5px;
     -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+    -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
     transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   }
   .about-body .contact-list li a:hover {
