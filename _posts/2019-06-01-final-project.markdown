@@ -19,12 +19,20 @@ author: glhr # Add name author (optional)
   <ul class="slides">
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/roqaya.png" />
-      <p class="flex-caption">Roqaya (Year 7) - Digital art
+      <p class="flex-caption">Roqaya (Year 7) -
+      <a href='"{{site.baseurl}}/assets/img/final-project/roqaya.png"'>
+      Digital art
+      </a>
+      made with Krita
       </p>
     </li>
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/jude.png" />
-      <p class="flex-caption">Jude (Year 7) - Digital art
+      <p class="flex-caption">Jude (Year 7) -
+      <a href='"{{site.baseurl}}/assets/img/final-project/jude.png"'>
+      Digital art
+      </a>
+      made with Krita
       </p>
     </li>
   </ul>
@@ -43,7 +51,13 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/jana.png" />
       <p class="flex-caption">Jana Keshk (Year 7) - 
-      <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>Flow chart</a>
+      <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
+      Flow chart
+      </a>
+      and
+      <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
+      Quiz
+      </a>
       </p>
     </li>
     <li>
@@ -61,7 +75,10 @@ author: glhr # Add name author (optional)
 ### Tradition and Culture
 
 
-### Sustainability
+### Health
+
+
+### Sustainability and Biodeversity
 
 ## Detailed instructions
 
