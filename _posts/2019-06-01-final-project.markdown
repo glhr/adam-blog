@@ -18,7 +18,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" />
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
@@ -27,7 +27,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" />
       <p class="flex-caption">Jude (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
       Digital art
@@ -188,3 +188,5 @@ o	Showcase an educational game
 -	Personal project (eg. windmill, Ahmed's car)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
+
+
