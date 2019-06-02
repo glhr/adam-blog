@@ -20,7 +20,7 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/roqaya.png" />
       <p class="flex-caption">Roqaya (Year 7) -
-      <a href='"{{site.baseurl}}/assets/img/final-project/roqaya.png"'>
+      <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
       </a>
       made with Krita
@@ -29,10 +29,26 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/jude.png" />
       <p class="flex-caption">Jude (Year 7) -
-      <a href='"{{site.baseurl}}/assets/img/final-project/jude.png"'>
+      <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
       Digital art
       </a>
       made with Krita
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" />
+      <p class="flex-caption">Kenzy Bon (Year 7) -
+      <a href="https://kemzybon.wixsite.com/mysite">
+      Wix website
+      </a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" />
+      <p class="flex-caption">Kanzy Nafee (Year 7) -
+      <a href="https://kanzyalaanafee.wixsite.com/website">
+      Wix website
+      </a>
       </p>
     </li>
   </ul>
@@ -66,6 +82,12 @@ author: glhr # Add name author (optional)
       <a href='https://thimbleprojects.org/roboticsintheworld/688710/'>HTML web page</a>
       </p>
     </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/bassem.png" />
+      <p class="flex-caption">Bassem (Year 7) - 
+      <a href='https://thimbleprojects.org/bassem10/690464'>HTML web page</a>
+      </p>
+    </li>
   </ul>
 </div>
 
@@ -74,11 +96,60 @@ author: glhr # Add name author (optional)
 
 ### Tradition and Culture
 
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/hala.png" />
+      <p class="flex-caption">Hala (Year 7) - 
+      <a href='https://drive.google.com/file/d/1CGD9rsGpT5qc5bSCQQ70JA8AFXwD7nU-/view?usp=sharing'>Video</a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
+      <p class="flex-caption">Malak (Year 7) - 
+      <a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>Animated presentation</a>
+      </p>
+    </li>
+  </ul>
+</div>
 
 ### Health
 
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/hassan.png" />
+      <p class="flex-caption">Hassan (Year 7) - 
+      <a href='https://thimbleprojects.org/hassankandil/689467'>HTML web page</a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/karim.png" />
+      <p class="flex-caption">Karim (Year 7) - 
+      <a href='https://thimbleprojects.org/karimkayar/689465'>HTML web page</a>
+      </p>
+    </li>
+  </ul>
+</div>
 
-### Sustainability and Biodeversity
+### Sustainability and Biodiversity
+
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
+      <p class="flex-caption">Omar Hazem (Year 7) - 
+      <a href='https://biteable.com/watch/fish-migration-2283263'>Animated presentation</a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
+      <p class="flex-caption">Ali Amr (Year 7) - 
+      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
+      </p>
+    </li>
+  </ul>
+</div>
 
 ## Detailed instructions
 
@@ -111,5 +182,3 @@ o	Showcase an educational game
 -	Personal project (eg. windmill, Ahmed's car)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
-
-
