@@ -50,9 +50,9 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif" />
       <p class="flex-caption">Mariam Ahmed (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.png">
+      <a href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif">
       Poster 
       </a>
       and <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
@@ -72,18 +72,16 @@ author: glhr # Add name author (optional)
       <img src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
       <p class="flex-caption">Mariam Soffar (Year 8) -
       <a href="https://mariamsofarforsan.wixsite.com/website">
-      Poster 
+      Wix website
       </a>
-      made with Adobe Spark
       </p>
     </li>
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/ibrahim.png" />
       <p class="flex-caption">Ibrahim (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/ibrahim.pdf">
-      Poster 
+      Cartoon
       </a>
-      made with Adobe Spark
       </p>
     </li>
   </ul>
