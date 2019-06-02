@@ -18,7 +18,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" />
+      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.png" />
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
@@ -27,7 +27,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" />
+      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.png" />
       <p class="flex-caption">Jude (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
       Digital art
@@ -88,11 +88,15 @@ author: glhr # Add name author (optional)
       <a href='https://thimbleprojects.org/bassem10/690464'>HTML web page</a>
       </p>
     </li>
+    
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/emara.png" />
+      <p class="flex-caption">Mohamed Emara (Year 7) - 
+      <a href='https://thimbleprojects.org/mohamedemara123456/688360/'>HTML web page</a>
+      </p>
+    </li>
   </ul>
 </div>
-
-### Migration
-
 
 ### Tradition and Culture
 
@@ -150,6 +154,8 @@ author: glhr # Add name author (optional)
     </li>
   </ul>
 </div>
+
+### Migration
 
 ## Detailed instructions
 
