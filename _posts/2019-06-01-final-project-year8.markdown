@@ -50,6 +50,17 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.png" />
+      <p class="flex-caption">Mariam Ahmed (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.png">
+      Poster 
+      </a>
+      and <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
+        Quiz
+        </a>
+      </p>
+    </li>
+    <li>
       <img src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
       <p class="flex-caption">Nour Senbel (Year 8) -
       <a href="https://noursenbelforsan.wixsite.com/mysite">
