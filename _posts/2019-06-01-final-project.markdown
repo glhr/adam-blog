@@ -18,7 +18,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/roqaya.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.png" />
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
@@ -27,7 +27,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jude.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.png" />
       <p class="flex-caption">Jude (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
       Digital art
@@ -44,10 +44,22 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/kanzy-nafee.png" />
       <p class="flex-caption">Kanzy Nafee (Year 7) -
       <a href="https://kanzyalaanafee.wixsite.com/website">
       Wix website
+      </a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/jana.png" />
+      <p class="flex-caption">Jana Keshk (Year 7) - 
+      <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
+      Flow chart
+      </a>
+      and
+      <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
+      Quiz
       </a>
       </p>
     </li>
@@ -62,18 +74,6 @@ author: glhr # Add name author (optional)
       <img src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png" />
       <p class="flex-caption">
       Mohamed Mamdouh (Year 7) - Poster
-      </p>
-    </li>
-    <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jana.png" />
-      <p class="flex-caption">Jana Keshk (Year 7) - 
-      <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
-      Flow chart
-      </a>
-      and
-      <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
-      Quiz
-      </a>
       </p>
     </li>
     <li>
@@ -105,7 +105,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/malak.png" />
       <p class="flex-caption">Malak (Year 7) - 
       <a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>Animated presentation</a>
       </p>
