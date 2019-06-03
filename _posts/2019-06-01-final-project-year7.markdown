@@ -19,7 +19,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/placeholder.png" data-echo="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" />
+      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" alt="Roqaya (Year 7) - Digital art"/>
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
@@ -84,7 +84,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
       <p class="flex-caption">
       Mohamed Mamdouh (Year 7) - <a href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
       Poster 
@@ -92,21 +92,21 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/youssef-mohsen.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-mohsen.png" />
       <p class="flex-caption">Youssef Mohsen (Year 7) - 
       <a href='https://thimbleprojects.org/roboticsintheworld/688710/'>HTML web page</a>
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/bassem.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/bassem.png" />
       <p class="flex-caption">Bassem (Year 7) - 
       <a href='https://thimbleprojects.org/bassem10/690464'>HTML web page</a>
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/emara.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/emara.png" />
       <p class="flex-caption">Mohamed Emara (Year 7) - 
-      <a href='https://thimbleprojects.org/mohamedemara123456/688360/'>HTML web page</a>
+      <a href='https://thimbleprojects.org/mohamedemara123456/690700/'>HTML web page</a>
       </p>
     </li>
   </ul>
@@ -123,7 +123,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/malak.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/malak.png" />
       <p class="flex-caption">Malak (Year 7) - 
       <a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>Animated presentation</a>
       </p>
@@ -142,7 +142,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/karim.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/karim.png" />
       <p class="flex-caption">Karim (Year 7) - 
       <a href='https://thimbleprojects.org/karimkayar/689465'>HTML web page</a>
       </p>
@@ -161,13 +161,13 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
       <p class="flex-caption">Omar Hazem (Year 7) - 
       <a href='https://biteable.com/watch/fish-migration-2283263'>Animated presentation</a>
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
       <p class="flex-caption">Ali Amr (Year 7) - 
       <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
       </p>
