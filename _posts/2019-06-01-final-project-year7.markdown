@@ -21,22 +21,20 @@ author: glhr # Add name author (optional)
       <img src="{{site.baseurl}}/assets/img/placeholder.png" data-echo="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" />
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
-      Digital art 
-      </a>
-      made with Krita and Adobe Spark
+      Digital art
+      </a> made with Krita and Adobe Spark
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" alt="Jude (Year 7) - Digital art"/>
       <p class="flex-caption">Jude (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
-      Digital art 
-      </a>
-      made with Krita
+      Digital art
+      </a> made with Krita
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" alt="Kenzy Bon (Year 7) - Wix Website"/>
       <p class="flex-caption">Kenzy Bon (Year 7) -
       <a href="https://kemzybon.wixsite.com/mysite">
       Wix website
@@ -44,7 +42,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/kanzy-nafee.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kanzy-nafee.png" alt="Kanzy Nafee (Year 7) - Wix Website"/>
       <p class="flex-caption">Kanzy Nafee (Year 7) -
       <a href="https://kanzyalaanafee.wixsite.com/website">
       Wix website
@@ -52,7 +50,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jana.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana.png" alt="Jana Keshk (Year 7) - Flow chart"/>
       <p class="flex-caption">Jana Keshk (Year 7) - 
       <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
       Flow chart
@@ -60,7 +58,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/jana-quiz.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana-quiz.png" alt="Jana Keshk (Year 7) - Quiz"/>
       <p class="flex-caption">Jana Keshk (Year 7) - 
       <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
       Quiz
@@ -68,7 +66,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/juwairia.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/juwairia.png" alt="Juwairia (Year 7) - Presentation"/>
       <p class="flex-caption">Juwairia (Year 7) - 
       <a href='https://prezi.com/p/hwhg7qeisiok/humans-rights/'>
       Presentation 
