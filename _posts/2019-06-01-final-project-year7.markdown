@@ -153,7 +153,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.jpg" />
       <p class="flex-caption">Omar Omran (Year 7) - 
       <a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Animated presentation</a>
       </p>
