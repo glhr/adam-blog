@@ -167,7 +167,7 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
       <p class="flex-caption">Ali Amr (Year 7) - 
-      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
+      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Photo editing</a> with Photoshop
       </p>
     </li>
   </ul>
@@ -203,7 +203,7 @@ o	Showcase an educational game
 -	Scratch game/animation
 -	Mind map/diagram (eg. with Lucidchart or Google Drawing)
 -	Creating a cartoon (https://www.storyboardthat.com/storyboard-creator, https://www.makebeliefscomix.com/Comix/...)
--	Personal project (eg. windmill, Ahmed's car)
+-	Personal project (eg. electronics)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
 
