@@ -21,16 +21,16 @@ author: glhr # Add name author (optional)
       <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" />
       <p class="flex-caption">Roqaya (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
-      Digital art
+      Digital art 
       </a>
-      made with Krita
+      made with Krita and Adobe Spark
       </p>
     </li>
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" />
       <p class="flex-caption">Jude (Year 7) -
       <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
-      Digital art
+      Digital art 
       </a>
       made with Krita
       </p>
@@ -84,9 +84,11 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
       <p class="flex-caption">
-      Mohamed Mamdouh (Year 7) - Poster
+      Mohamed Mamdouh (Year 7) - <a href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
+      Poster 
+      </a>made with Adobe Spark
       </p>
     </li>
     <li>
@@ -155,7 +157,7 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.jpg" />
       <p class="flex-caption">Omar Omran (Year 7) - 
-      <a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Animated presentation</a>
+      <a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Photo editing</a> with Photoshop
       </p>
     </li>
     <li>
@@ -167,7 +169,7 @@ author: glhr # Add name author (optional)
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
       <p class="flex-caption">Ali Amr (Year 7) - 
-      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Photo editing</a> with Photoshop
+      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
       </p>
     </li>
   </ul>
