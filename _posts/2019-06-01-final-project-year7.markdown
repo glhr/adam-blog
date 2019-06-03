@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Final Project - Global Perspectives & IT (Year 7)
+title:  Final Project - Global Perspectives (Year 7)
 date:   2019-06-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: final-project-banner.jpg # Add image post (optional)
@@ -57,10 +57,23 @@ author: glhr # Add name author (optional)
       <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
       Flow chart
       </a>
-      and
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/jana-quiz.png" />
+      <p class="flex-caption">Jana Keshk (Year 7) - 
       <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
       Quiz
       </a>
+      </p>
+    </li>
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/juwairia.png" />
+      <p class="flex-caption">Juwairia (Year 7) - 
+      <a href='https://prezi.com/p/hwhg7qeisiok/humans-rights/'>
+      Presentation 
+      </a>
+      made with Prezi
       </p>
     </li>
   </ul>
@@ -88,7 +101,6 @@ author: glhr # Add name author (optional)
       <a href='https://thimbleprojects.org/bassem10/690464'>HTML web page</a>
       </p>
     </li>
-    
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/emara.png" />
       <p class="flex-caption">Mohamed Emara (Year 7) - 
@@ -140,6 +152,12 @@ author: glhr # Add name author (optional)
 
 <div class="flexslider">
   <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.png" />
+      <p class="flex-caption">Omar Omran (Year 7) - 
+      <a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Animated presentation</a>
+      </p>
+    </li>
     <li>
       <img src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
       <p class="flex-caption">Omar Hazem (Year 7) - 
