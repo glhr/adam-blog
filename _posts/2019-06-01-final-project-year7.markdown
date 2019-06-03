@@ -15,6 +15,7 @@ author: glhr # Add name author (optional)
 
 ### Human Rights
 
+<section class="slider">
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -76,6 +77,7 @@ author: glhr # Add name author (optional)
     </li>
   </ul>
 </div>
+</section>
 
 ### Globalisation
 
