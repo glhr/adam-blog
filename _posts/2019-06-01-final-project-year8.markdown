@@ -91,7 +91,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-soliman-thumb.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-soliman-thumb.jpg" />
       <p class="flex-caption">Omar Soliman (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
       Poster
