@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Final Project - Global Perspectives & IT (Year 8)
+title:  Final Project - Global Perspectives (Year 8)
 date:   2019-06-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: final-project-banner.jpg # Add image post (optional)
+img: globalization-banner.jpg # Add image post (optional)
 tags: [web-design]
 author: glhr # Add name author (optional)
 ---
@@ -26,7 +26,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
       <p class="flex-caption">Tarek El Sherbini (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini.png">
       Poster 
@@ -43,7 +43,18 @@ author: glhr # Add name author (optional)
 
 ### Tradition and Culture
 
-
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/omar-walid.png" />
+      <p class="flex-caption">Omar Walid (Year 8) -
+      <a href="https://scratch.mit.edu/projects/313377425/">
+      Scratch animation
+      </a>
+      </p>
+    </li>
+  </ul>
+</div>
 
 ### Health
 
@@ -61,7 +72,18 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
+      <p class="flex-caption">Dana (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
+      Mind map 
+      </a>
+      and <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
+        Quiz
+        </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
       <p class="flex-caption">Nour Senbel (Year 8) -
       <a href="https://noursenbelforsan.wixsite.com/mysite">
       Wix website
@@ -69,7 +91,23 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-soliman-thumb.png" />
+      <p class="flex-caption">Omar Soliman (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
+      Poster
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/yaseen.png" />
+      <p class="flex-caption">Yaseen (Year 8) -
+      <a href="https://thimbleprojects.org/yas12345/688369">
+      HTML web page
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
       <p class="flex-caption">Mariam Soffar (Year 8) -
       <a href="https://mariamsofarforsan.wixsite.com/website">
       Wix website
@@ -77,7 +115,7 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/ibrahim.png" />
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ibrahim.png" />
       <p class="flex-caption">Ibrahim (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/ibrahim.pdf">
       Cartoon
