@@ -18,15 +18,7 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png" />
-      <p class="flex-caption">Youssef Hamisa (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.pdf">
-      Cartoon
-      </a>
-      </p>
-    </li>
-    <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
+      <img src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
       <p class="flex-caption">Tarek El Sherbini (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini.png">
       Poster 
@@ -34,12 +26,42 @@ author: glhr # Add name author (optional)
       made with Adobe Spark
       </p>
     </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png" />
+      <p class="flex-caption">Youssef Hamisa (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.pdf">
+      Cartoon
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-elboghdadi.png" />
+      <p class="flex-caption">Mohamed ElBoghdadi (Year 8) -
+      <a href="https://spark.adobe.com/video/Ocs5XiYqEsJzU">
+      Video 
+      </a>
+      made with Adobe Spark
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ahmed-hamada.png" />
+      <p class="flex-caption">Ahmed Hamada (Year 8) -
+      <a href="https://spark.adobe.com/video/iBDGPztxtOcTY">
+      Video 
+      </a>
+      made with Adobe Spark
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-hatem-thumb.jpg" />
+      <p class="flex-caption">Tarek Hatem (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/tarek-hatem.png">
+      Cartoon
+      </a>
+      </p>
+    </li>
   </ul>
 </div>
-
-### Globalisation
-
-
 
 ### Tradition and Culture
 
@@ -96,6 +118,15 @@ author: glhr # Add name author (optional)
       <a href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
       Poster
       </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nina.png" />
+      <p class="flex-caption">Nina (Year 8) -
+      <a href="https://drive.google.com/file/d/1PLND119kPSHeqhPfNURjt5J4jnrEGuOO/view?usp=sharing">
+      Video
+      </a>
+        made with Adobe Spark
       </p>
     </li>
     <li>
