@@ -116,13 +116,6 @@ author: glhr # Add name author (optional)
     </li>
     <li>
       <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
-      Quiz 
-      </a>
-      </p>
-    </li>
-    <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
-      <p class="flex-caption">
             <img src="{{site.baseurl}}/assets/img/final-project/mariam-quiz.png" />
       </a>
       <p class="flex-caption">Mariam Ahmed (Year 8) -
@@ -132,7 +125,9 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
+      </a>
       <p class="flex-caption">Dana (Year 8) -
       <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
       Mind map 
@@ -141,13 +136,6 @@ author: glhr # Add name author (optional)
     </li>
     <li>
       <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
-        Quiz
-        </a>
-      </p>
-    </li>
-    <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
-      <p class="flex-caption">
             <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-quiz.png" />
       </a>
       <p class="flex-caption">Dana (Year 8) -
@@ -157,7 +145,9 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
+      <a target="_blank" href="https://noursenbelforsan.wixsite.com/mysite">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
+      </a>
       <p class="flex-caption">Nour Senbel (Year 8) -
       <a target="_blank" href="https://noursenbelforsan.wixsite.com/mysite">
       Wix website
@@ -321,7 +311,7 @@ Below is a list of IT tools/ideas that you can choose from to create your projec
 -	Use screen recording and microphone to:
 o	Make a short tutorial/explanation video
 o	Showcase an educational game
--	Excel table/charts (eg. plot the average temperature to show the effect of global warming)
+-	Excel table/charts
 -	Poster (Adobe Spark, Piktochart…) 
 -	Video or presentation (Adobe Spark, Powtoon, Prezi…) 
 -	Wordpress blog
@@ -332,7 +322,7 @@ o	Showcase an educational game
 -	Android app with MIT App Inventor
 -	Scratch game/animation
 -	Mind map/diagram (eg. with Lucidchart or Google Drawing)
--	Creating a cartoon (https://www.storyboardthat.com/storyboard-creator, https://www.makebeliefscomix.com/Comix/...)
+-	Creating a cartoon
 -	Personal project (eg. windmill, Ahmed's car)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
