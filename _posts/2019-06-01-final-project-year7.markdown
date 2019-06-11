@@ -19,68 +19,83 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png"><img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" alt="Roqaya (Year 7) - Digital art"/></a>
-      <p class="flex-caption">Roqaya (Year 7) -
-      Digital art
-       made with Krita and Adobe Spark
-      </p>
+		<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
+			<img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" alt="Roqaya (Year 7) - Digital art"/>
+		</a>
+		<p class="flex-caption">Roqaya (Year 7) -
+			<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/roqaya.png">Digital art</a>&nbsp;made with Krita and Adobe Spark
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" alt="Jude (Year 7) - Digital art"/>
+		<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/jude.png">
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jude-thumb.jpg" alt="Jude (Year 7) - Digital art"/>
+		</a>
       <p class="flex-caption">Jude (Year 7) -
-      <a href="{{site.baseurl}}/assets/img/final-project/jude.png">
-      Digital art
-      </a> made with Krita
+		  <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/jude.png">
+		  Digital art
+		  </a>&nbsp;made with Krita
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" alt="Kenzy Bon (Year 7) - Wix Website"/>
+      <a target="_blank" href="https://kemzybon.wixsite.com/mysite">
+		<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kenzy-bon.png" alt="Kenzy Bon (Year 7) - Wix Website"/>
+	  </a>
       <p class="flex-caption">Kenzy Bon (Year 7) -
-      <a href="https://kemzybon.wixsite.com/mysite">
+      <a target="_blank" href="https://kemzybon.wixsite.com/mysite">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kanzy-nafee.png" alt="Kanzy Nafee (Year 7) - Wix Website"/>
-      <p class="flex-caption">Kanzy Nafee (Year 7) -
-      <a href="https://kanzyalaanafee.wixsite.com/website">
-      Wix website
-      </a>
-      </p>
+		<a target="_blank" href="https://kanzyalaanafee.wixsite.com/website">
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/kanzy-nafee.png" alt="Kanzy Nafee (Year 7) - Wix Website"/>
+		</a>
+		<p class="flex-caption">Kanzy Nafee (Year 7) -
+			<a target="_blank" href="https://kanzyalaanafee.wixsite.com/website">
+			Wix website
+			</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana.png" alt="Jana Keshk (Year 7) - Flow chart"/>
-      <p class="flex-caption">Jana Keshk (Year 7) - 
-      <a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
-      Flow chart
-      </a>
-      </p>
+		<a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana.png" alt="Jana Keshk (Year 7) - Flow chart"/>
+		</a>
+		<p class="flex-caption">Jana Keshk (Year 7) - 
+			<a href='https://drive.google.com/file/d/1G2cat4ALq6Bma_nhWrgTKP2YouCJjP4z/view?usp=sharing'>
+			Flow chart
+			</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana-quiz.png" alt="Jana Keshk (Year 7) - Quiz"/>
-      <p class="flex-caption">Jana Keshk (Year 7) - 
-      <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
-      Quiz
-      </a>
-      </p>
+		<a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/jana-quiz.png" alt="Jana Keshk (Year 7) - Quiz"/>
+		</a>
+		<p class="flex-caption">Jana Keshk (Year 7) - 
+		  <a href='https://quizizz.com/admin/quiz/5ced0ac7961f63001adde717/human-rights-by-jana-keshk?studentShare=true'>
+		  Quiz
+		  </a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/juwairia.png" alt="Juwairia (Year 7) - Presentation"/>
-      <p class="flex-caption">Juwairia (Year 7) - 
-      <a href='https://prezi.com/p/hwhg7qeisiok/humans-rights/'>
-      Presentation 
-      </a>
-      made with Prezi
-      </p>
+		<a href='https://prezi.com/p/hwhg7qeisiok/humans-rights/'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/juwairia.png" alt="Juwairia (Year 7) - Presentation"/>
+		</a>
+		<p class="flex-caption">Juwairia (Year 7) - 
+			<a href='https://prezi.com/p/hwhg7qeisiok/humans-rights/'>
+			Presentation 
+			</a>
+			made with Prezi
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/farida.png" alt="Farida (Year 7) - Presentation"/>
-      <p class="flex-caption">Farida (Year 7) - 
-      <a href='https://drive.google.com/file/d/0ByidwRqpkmq5cEhpdERVaUVZTVl2MWZfQjdTbkFxYjNsRGhz/view?usp=sharing'>
-      Video 
-      </a>
-      </p>
+		<a href='https://drive.google.com/file/d/0ByidwRqpkmq5cEhpdERVaUVZTVl2MWZfQjdTbkFxYjNsRGhz/view?usp=sharing'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/farida.png" alt="Farida (Year 7) - Presentation"/>
+		</a>
+		<p class="flex-caption">Farida (Year 7) - 
+			<a href='https://drive.google.com/file/d/0ByidwRqpkmq5cEhpdERVaUVZTVl2MWZfQjdTbkFxYjNsRGhz/view?usp=sharing'>
+			Video 
+			</a>
+		</p>
     </li>
   </ul>
 </div>
@@ -91,36 +106,46 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
-      <p class="flex-caption">
-      Mohamed Mamdouh (Year 7) - <a href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
-      Poster 
-      </a>made with Adobe Spark
-      </p>
+		<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
+		</a>
+		<p class="flex-caption"> Mamdouh (Year 7) - 
+			<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
+			Poster 
+			</a>made with Adobe Spark
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-mohsen.png" />
-      <p class="flex-caption">Youssef Mohsen (Year 7) - 
-      <a href='https://thimbleprojects.org/roboticsintheworld/688710/'>HTML web page</a>
-      </p>
+		<a href='https://thimbleprojects.org/roboticsintheworld/688710/'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-mohsen.png" />
+		</a>
+		<p class="flex-caption">Youssef Mohsen (Year 7) - 
+			<a href='https://thimbleprojects.org/roboticsintheworld/688710/'>HTML web page</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/bassem.png" />
+		<a href='https://thimbleprojects.org/bassem10/690464'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/bassem.png" />
+		</a>
       <p class="flex-caption">Bassem (Year 7) - 
       <a href='https://thimbleprojects.org/bassem10/690464'>HTML web page</a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/emara.png" />
-      <p class="flex-caption">Mohamed Emara (Year 7) - 
-      <a href='https://thimbleprojects.org/mohamedemara123456/690700/'>HTML web page</a>
-      </p>
+		<a href='https://thimbleprojects.org/mohamedemara123456/690700/'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/emara.png" />
+		</a>
+		<p class="flex-caption">Mohamed Emara (Year 7) - 
+			<a href='https://thimbleprojects.org/mohamedemara123456/690700/'>HTML web page</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-nagi.png" />
-      <p class="flex-caption">Hussein Nagi (Year 7) - 
-      <a href='https://scratch.mit.edu/projects/259720082'>Scratch animation</a>
-      </p>
+		<a href='https://scratch.mit.edu/projects/259720082'>Scratch animation</a>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-nagi.png" />
+		</a>
+		<p class="flex-caption">Hussein Nagi (Year 7) - 
+			<a href='https://scratch.mit.edu/projects/259720082'>Scratch animation</a>
+		</p>
     </li>
   </ul>
 </div>
@@ -130,35 +155,43 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/hala.png" />
-      <p class="flex-caption">Hala (Year 7) - 
-      <a href='https://drive.google.com/file/d/1CGD9rsGpT5qc5bSCQQ70JA8AFXwD7nU-/view?usp=sharing'>Video</a>
-      </p>
+		<a href='https://drive.google.com/file/d/1CGD9rsGpT5qc5bSCQQ70JA8AFXwD7nU-/view?usp=sharing'>
+			<img src="{{site.baseurl}}/assets/img/final-project/hala.png" />
+		</a>
+		<p class="flex-caption">Hala (Year 7) - 
+			<a href='https://drive.google.com/file/d/1CGD9rsGpT5qc5bSCQQ70JA8AFXwD7nU-/view?usp=sharing'>Video</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/malak.png" />
-      <p class="flex-caption">Malak (Year 7) - 
-      <a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>Animated presentation</a>
-      </p>
+		<a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/malak.png" />
+		</a>
+		<p class="flex-caption">Malak (Year 7) - 
+			<a href='https://www.powtoon.com/online-presentation/fTBh6t0bbZG/?mode=movie'>Animated presentation</a>
+		</p>
     </li>
   </ul>
 </div>
 
-### Health
+### Health and Lifestyle
 
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/hassan.png" />
-      <p class="flex-caption">Hassan (Year 7) - 
-      <a href='https://thimbleprojects.org/hassankandil/689467'>HTML web page</a>
-      </p>
+		<a href='https://thimbleprojects.org/hassankandil/689467'>
+			<img src="{{site.baseurl}}/assets/img/final-project/hassan.png" />
+		</a>
+		<p class="flex-caption">Hassan (Year 7) - 
+			<a href='https://thimbleprojects.org/hassankandil/689467'>HTML web page</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/karim.png" />
-      <p class="flex-caption">Karim (Year 7) - 
-      <a href='https://thimbleprojects.org/karimkayar/689465'>HTML web page</a>
-      </p>
+		<a href='https://thimbleprojects.org/karimkayar/689465'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/karim.png" />
+		</a>
+		<p class="flex-caption">Karim (Year 7) - 
+			<a href='https://thimbleprojects.org/karimkayar/689465'>HTML web page</a>
+		</p>
     </li>
   </ul>
 </div>
@@ -168,22 +201,28 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.jpg" />
-      <p class="flex-caption">Omar Omran (Year 7) - 
-      <a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Photo editing</a> with Photoshop
-      </p>
+		<a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>
+			<img src="{{site.baseurl}}/assets/img/final-project/omar-omran-thumb.jpg" />
+		</a>
+		<p class="flex-caption">Omar Omran (Year 7) - 
+			<a href='{{site.baseurl}}/assets/img/final-project/omar-omran.png'>Photo editing</a> with Photoshop
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
-      <p class="flex-caption">Omar Hazem (Year 7) - 
-      <a href='https://biteable.com/watch/fish-migration-2283263'>Animated presentation</a>
-      </p>
+		<a href='https://biteable.com/watch/fish-migration-2283263'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-hazem.png" />
+		</a>
+		<p class="flex-caption">Omar Hazem (Year 7) - 
+			<a href='https://biteable.com/watch/fish-migration-2283263'>Animated presentation</a>
+		</p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
-      <p class="flex-caption">Ali Amr (Year 7) - 
-      <a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
-      </p>
+		<a href='https://biteable.com/watch/bird-migration-copy-2283261'>
+			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ali-amr.png" />
+		</a>
+		<p class="flex-caption">Ali Amr (Year 7) - 
+			<a href='https://biteable.com/watch/bird-migration-copy-2283261'>Animated presentation</a>
+		</p>
     </li>
   </ul>
 </div>
@@ -206,7 +245,7 @@ Below is a list of IT tools/ideas that you can choose from to create your projec
 -	Use screen recording and microphone to:
 o	Make a short tutorial/explanation video
 o	Showcase an educational game
--	Excel table/charts (eg. plot the average temperature to show the effect of global warming)
+-	Excel table/charts
 -	Poster (Adobe Spark, Piktochart…) 
 -	Video or presentation (Adobe Spark, Powtoon, Prezi…) 
 -	Wordpress blog
@@ -217,9 +256,7 @@ o	Showcase an educational game
 -	Android app with MIT App Inventor
 -	Scratch game/animation
 -	Mind map/diagram (eg. with Lucidchart or Google Drawing)
--	Creating a cartoon (https://www.storyboardthat.com/storyboard-creator, https://www.makebeliefscomix.com/Comix/...)
+-	Creating a cartoon
 -	Personal project (eg. electronics)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
-
-
