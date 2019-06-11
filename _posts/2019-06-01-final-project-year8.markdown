@@ -29,7 +29,7 @@ author: glhr # Add name author (optional)
     <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png" />
       <p class="flex-caption">Youssef Hamisa (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.pdf">
+      <a href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png">
       Cartoon
       </a>
       </p>
@@ -96,9 +96,6 @@ author: glhr # Add name author (optional)
       <a href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif">
       Poster 
       </a>
-      and <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
-        Quiz
-        </a>
       </p>
     </li>
     <li>
@@ -115,9 +112,6 @@ author: glhr # Add name author (optional)
       <a href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
       Mind map 
       </a>
-      and <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
-        Quiz
-        </a>
       </p>
     </li>
     <li>
@@ -212,7 +206,7 @@ author: glhr # Add name author (optional)
     <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nouray-thumb.png" />
       <p class="flex-caption">Nouray (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/nouray.png">
+      <a href="{{site.baseurl}}/assets/img/final-project/nouray.pdf">
       Cartoon
       </a>
       </p>
@@ -228,7 +222,7 @@ author: glhr # Add name author (optional)
     <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-elrayes-thumb.png" />
       <p class="flex-caption">Hussein (Year 8) -
-      <a href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/hussein-elrayes.png">
+      <a href="{{site.baseurl}}/assets/img/final-project/hussein-elrayes.png">
       Motivational poster
       </a>
       </p>
