@@ -4,7 +4,7 @@ title:  Final Project - Global Perspectives (Year 7)
 date:   2019-06-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: final-project-banner.jpg # Add image post (optional)
-tags: [web-design]
+tags:
 author: glhr # Add name author (optional)
 ---
 ## Task
@@ -19,11 +19,10 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" alt="Roqaya (Year 7) - Digital art"/>
+      <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png"><img src="{{site.baseurl}}/assets/img/final-project/roqaya-thumb.jpg" alt="Roqaya (Year 7) - Digital art"/></a>
       <p class="flex-caption">Roqaya (Year 7) -
-      <a href="{{site.baseurl}}/assets/img/final-project/roqaya.png">
       Digital art
-      </a> made with Krita and Adobe Spark
+       made with Krita and Adobe Spark
       </p>
     </li>
     <li>
@@ -75,6 +74,14 @@ author: glhr # Add name author (optional)
       made with Prezi
       </p>
     </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/farida.png" alt="Farida (Year 7) - Presentation"/>
+      <p class="flex-caption">Farida (Year 7) - 
+      <a href='https://drive.google.com/file/d/0ByidwRqpkmq5cEhpdERVaUVZTVl2MWZfQjdTbkFxYjNsRGhz/view?usp=sharing'>
+      Video 
+      </a>
+      </p>
+    </li>
   </ul>
 </div>
 </section>
@@ -107,6 +114,12 @@ author: glhr # Add name author (optional)
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/emara.png" />
       <p class="flex-caption">Mohamed Emara (Year 7) - 
       <a href='https://thimbleprojects.org/mohamedemara123456/690700/'>HTML web page</a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-nagi.png" />
+      <p class="flex-caption">Hussein Nagi (Year 7) - 
+      <a href='https://scratch.mit.edu/projects/259720082'>Scratch animation</a>
       </p>
     </li>
   </ul>
