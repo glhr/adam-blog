@@ -53,6 +53,14 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-soffar.png" />
+      <p class="flex-caption">Nour Soffar (Year 8) -
+      <a href="https://noursofarforsan.wixsite.com/website">
+      Wix website
+      </a>
+      </p>
+    </li>
+    <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-hatem-thumb.jpg" />
       <p class="flex-caption">Tarek Hatem (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/tarek-hatem.png">
@@ -78,7 +86,7 @@ author: glhr # Add name author (optional)
   </ul>
 </div>
 
-### Health
+### Health and Lifestyle
 
 <div class="flexslider">
   <ul class="slides">
@@ -94,12 +102,28 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/mariam-quiz.png" />
+      <p class="flex-caption">Mariam Ahmed (Year 8) -
+      <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
+      Quiz 
+      </a>
+      </p>
+    </li>
+    <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
       <p class="flex-caption">Dana (Year 8) -
       <a href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
       Mind map 
       </a>
       and <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
+        Quiz
+        </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-quiz.png" />
+      <p class="flex-caption">Dana (Year 8) -
+      <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
         Quiz
         </a>
       </p>
@@ -138,9 +162,33 @@ author: glhr # Add name author (optional)
       </p>
     </li>
     <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/sara.png" />
+      <p class="flex-caption">Sara (Year 8) -
+      <a href="https://www.powtoon.com/c/eWJUyT5qKpr/1/m">
+      Animated presentation
+      </a>
+      </p>
+    </li>
+    <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
       <p class="flex-caption">Mariam Soffar (Year 8) -
       <a href="https://mariamsofarforsan.wixsite.com/website">
+      Wix website
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hana.png" />
+      <p class="flex-caption">Hana (Year 8) -
+      <a href="https://hanadesoukyforsan.wixsite.com/website">
+      Wix website
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/lalique.png" />
+      <p class="flex-caption">Lalique (Year 8) -
+      <a href="https://laliquehedayat.wixsite.com/website">
       Wix website
       </a>
       </p>
@@ -153,16 +201,55 @@ author: glhr # Add name author (optional)
       </a>
       </p>
     </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/habiba-thumb.png" />
+      <p class="flex-caption">Habiba (Year 8) -
+      <a href="https://drive.google.com/file/d/1KZIrUXw0Wz5ZcVMsCkfFw45StnU_678s/view?usp=sharing">
+      Cartoon
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nouray-thumb.png" />
+      <p class="flex-caption">Nouray (Year 8) -
+      <a href="{{site.baseurl}}/assets/img/final-project/nouray.png">
+      Cartoon
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/salah.png" />
+      <p class="flex-caption">Salah and Ali (Year 8) -
+      <a href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/view?usp=sharing">
+      Video
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-elrayes-thumb.png" />
+      <p class="flex-caption">Hussein (Year 8) -
+      <a href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/hussein-elrayes.png">
+      Motivational poster
+      </a>
+      </p>
+    </li>
   </ul>
 </div>
 
-
-
-### Sustainability and Biodiversity
-
-
-
 ### Migration
+
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{site.baseurl}}/assets/img/final-project/thomas.png" />
+      <p class="flex-caption">Thomas (Year 8) -
+      <a href="https://scratch.mit.edu/projects/313044224/">
+      Scratch animation
+      </a>
+      </p>
+    </li>
+  </ul>
+</div>
 
 ## Detailed instructions
 
