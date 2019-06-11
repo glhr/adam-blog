@@ -4,7 +4,7 @@ title:  Final Project - Global Perspectives (Year 8)
 date:   2019-06-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: globalization-banner.jpg # Add image post (optional)
-tags: [web-design]
+tags:
 author: glhr # Add name author (optional)
 ---
 ## Task
@@ -18,52 +18,64 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini.png">
+            <img src="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini-thumb.png" />
+      </a>
       <p class="flex-caption">Tarek El Sherbini (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini.png">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/tarek-elsherbini.png">
       Poster 
       </a>
       made with Adobe Spark
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png" />
+      </a>
       <p class="flex-caption">Youssef Hamisa (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/youssef-hamisa.png">
       Cartoon
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-elboghdadi.png" />
+      <a target="_blank" href="https://spark.adobe.com/video/Ocs5XiYqEsJzU">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-elboghdadi.png" />
+      </a>
       <p class="flex-caption">Mohamed ElBoghdadi (Year 8) -
-      <a href="https://spark.adobe.com/video/Ocs5XiYqEsJzU">
+      <a target="_blank" href="https://spark.adobe.com/video/Ocs5XiYqEsJzU">
       Video 
       </a>
       made with Adobe Spark
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ahmed-hamada.png" />
+      <a target="_blank" href="https://spark.adobe.com/video/iBDGPztxtOcTY">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ahmed-hamada.png" />
+      </a>
       <p class="flex-caption">Ahmed Hamada (Year 8) -
-      <a href="https://spark.adobe.com/video/iBDGPztxtOcTY">
+      <a target="_blank" href="https://spark.adobe.com/video/iBDGPztxtOcTY">
       Video 
       </a>
       made with Adobe Spark
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-soffar.png" />
+      <a target="_blank" href="https://noursofarforsan.wixsite.com/website">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-soffar.png" />
+      </a>
       <p class="flex-caption">Nour Soffar (Year 8) -
-      <a href="https://noursofarforsan.wixsite.com/website">
+      <a target="_blank" href="https://noursofarforsan.wixsite.com/website">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-hatem-thumb.jpg" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/tarek-hatem.png">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/tarek-hatem-thumb.jpg" />
+      </a>
       <p class="flex-caption">Tarek Hatem (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/tarek-hatem.png">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/tarek-hatem.png">
       Cartoon
       </a>
       </p>
@@ -76,9 +88,11 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/omar-walid.png" />
+      <a target="_blank" href="https://scratch.mit.edu/projects/313377425/">
+            <img src="{{site.baseurl}}/assets/img/final-project/omar-walid.png" />
+      </a>
       <p class="flex-caption">Omar Walid (Year 8) -
-      <a href="https://scratch.mit.edu/projects/313377425/">
+      <a target="_blank" href="https://scratch.mit.edu/projects/313377425/">
       Scratch animation
       </a>
       </p>
@@ -91,15 +105,26 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif">
+            <img src="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif" />
+      </a>
       <p class="flex-caption">Mariam Ahmed (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mariam-ahmed.jfif">
       Poster 
       </a>
       </p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/mariam-quiz.png" />
+      <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
+      Quiz 
+      </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
+      <p class="flex-caption">
+            <img src="{{site.baseurl}}/assets/img/final-project/mariam-quiz.png" />
+      </a>
       <p class="flex-caption">Mariam Ahmed (Year 8) -
       <a href='https://www.playbuzz.com/item/1d94ed04-7336-4d0f-b2e1-0d3cb14624f9'>
       Quiz 
@@ -109,13 +134,22 @@ author: glhr # Add name author (optional)
     <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-mindmap-thumb.png" />
       <p class="flex-caption">Dana (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/dana-mindmap.pdf">
       Mind map 
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-quiz.png" />
+      <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
+        Quiz
+        </a>
+      </p>
+    </li>
+    <li>
+      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
+      <p class="flex-caption">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/dana-quiz.png" />
+      </a>
       <p class="flex-caption">Dana (Year 8) -
       <a href='https://www.playbuzz.com/item/92e24677-1409-4ad3-ba57-ac248ef37b40'>
         Quiz
@@ -125,104 +159,128 @@ author: glhr # Add name author (optional)
     <li>
       <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nour-senbel.png" />
       <p class="flex-caption">Nour Senbel (Year 8) -
-      <a href="https://noursenbelforsan.wixsite.com/mysite">
+      <a target="_blank" href="https://noursenbelforsan.wixsite.com/mysite">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-soliman-thumb.jpg" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/omar-soliman-thumb.jpg" />
+      </a>
       <p class="flex-caption">Omar Soliman (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/omar-soliman.png">
       Poster
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nina.png" />
+      <a target="_blank" href="https://drive.google.com/file/d/1PLND119kPSHeqhPfNURjt5J4jnrEGuOO/view?usp=sharing">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nina.png" />
+      </a>
       <p class="flex-caption">Nina (Year 8) -
-      <a href="https://drive.google.com/file/d/1PLND119kPSHeqhPfNURjt5J4jnrEGuOO/view?usp=sharing">
+      <a target="_blank" href="https://drive.google.com/file/d/1PLND119kPSHeqhPfNURjt5J4jnrEGuOO/view?usp=sharing">
       Video
       </a>
         made with Adobe Spark
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/yaseen.png" />
+      <a target="_blank" href="https://thimbleprojects.org/yas12345/688369">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/yaseen.png" />
+      </a>
       <p class="flex-caption">Yaseen (Year 8) -
-      <a href="https://thimbleprojects.org/yas12345/688369">
+      <a target="_blank" href="https://thimbleprojects.org/yas12345/688369">
       HTML web page
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/sara.png" />
+      <a target="_blank" href="https://www.powtoon.com/c/eWJUyT5qKpr/1/m">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/sara.png" />
+      </a>
       <p class="flex-caption">Sara (Year 8) -
-      <a href="https://www.powtoon.com/c/eWJUyT5qKpr/1/m">
+      <a target="_blank" href="https://www.powtoon.com/c/eWJUyT5qKpr/1/m">
       Animated presentation
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
+      <a target="_blank" href="https://mariamsofarforsan.wixsite.com/website">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mariam-soffar.png" />
+      </a>
       <p class="flex-caption">Mariam Soffar (Year 8) -
-      <a href="https://mariamsofarforsan.wixsite.com/website">
+      <a target="_blank" href="https://mariamsofarforsan.wixsite.com/website">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hana.png" />
+      <a target="_blank" href="https://hanadesoukyforsan.wixsite.com/website">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hana.png" />
+      </a>
       <p class="flex-caption">Hana (Year 8) -
-      <a href="https://hanadesoukyforsan.wixsite.com/website">
+      <a target="_blank" href="https://hanadesoukyforsan.wixsite.com/website">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/lalique.png" />
+      <a target="_blank" href="https://laliquehedayat.wixsite.com/website">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/lalique.png" />
+      </a>
       <p class="flex-caption">Lalique (Year 8) -
-      <a href="https://laliquehedayat.wixsite.com/website">
+      <a target="_blank" href="https://laliquehedayat.wixsite.com/website">
       Wix website
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ibrahim.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/ibrahim.pdf">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/ibrahim.png" />
+      </a>
       <p class="flex-caption">Ibrahim (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/ibrahim.pdf">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/ibrahim.pdf">
       Cartoon
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/habiba-thumb.png" />
+      <a target="_blank" href="https://drive.google.com/file/d/1KZIrUXw0Wz5ZcVMsCkfFw45StnU_678s/view?usp=sharing">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/habiba-thumb.png" />
+      </a>
       <p class="flex-caption">Habiba (Year 8) -
-      <a href="https://drive.google.com/file/d/1KZIrUXw0Wz5ZcVMsCkfFw45StnU_678s/view?usp=sharing">
+      <a target="_blank" href="https://drive.google.com/file/d/1KZIrUXw0Wz5ZcVMsCkfFw45StnU_678s/view?usp=sharing">
       Cartoon
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nouray-thumb.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/nouray.pdf">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/nouray-thumb.png" />
+      </a>
       <p class="flex-caption">Nouray (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/nouray.pdf">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/nouray.pdf">
       Cartoon
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/salah.png" />
+      <a target="_blank" href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/view?usp=sharing">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/salah.png" />
+      </a>
       <p class="flex-caption">Salah and Ali (Year 8) -
-      <a href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/view?usp=sharing">
+      <a target="_blank" href="https://drive.google.com/file/d/1pBiXI0B47kNQoN_5kDYG91rALpYbdHBs/view?usp=sharing">
       Video
       </a>
       </p>
     </li>
     <li>
-      <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-elrayes-thumb.png" />
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/hussein-elrayes.png">
+            <img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-elrayes-thumb.png" />
+      </a>
       <p class="flex-caption">Hussein (Year 8) -
-      <a href="{{site.baseurl}}/assets/img/final-project/hussein-elrayes.png">
+      <a target="_blank" href="{{site.baseurl}}/assets/img/final-project/hussein-elrayes.png">
       Motivational poster
       </a>
       </p>
@@ -235,9 +293,11 @@ author: glhr # Add name author (optional)
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/assets/img/final-project/thomas.png" />
+      <a target="_blank" href="https://scratch.mit.edu/projects/313044224/">
+            <img src="{{site.baseurl}}/assets/img/final-project/thomas.png" />
+      </a>
       <p class="flex-caption">Thomas (Year 8) -
-      <a href="https://scratch.mit.edu/projects/313044224/">
+      <a target="_blank" href="https://scratch.mit.edu/projects/313044224/">
       Scratch animation
       </a>
       </p>
@@ -276,5 +336,3 @@ o	Showcase an educational game
 -	Personal project (eg. windmill, Ahmed's car)
 
 Note that the content of your project should be educational/informative, however you can add a touch of humour. 
-
-
