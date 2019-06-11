@@ -218,6 +218,13 @@ Source: [What is a healthy diet?](https://www.bbc.com/bitesize/articles/zmwvgdm)
 
 ### Sustainability and Biodiversity
 
+> An increased demand for resources such as energy, food and fuel means that developing sustainable resources is critical to protect the environment for future generations.
+
+Source: [Biodiversity and the effect of human interaction on ecosystems](https://www.bbc.com/bitesize/guides/znmnb9q/revision/2)
+> Biodiversity is a measure of how many different species live in an ecosystem. Human activities like changing land use, deforestation and peat bog destruction reduce this
+
+Source: [Biodiversity and the effect of human interaction on ecosystems, BBC](https://www.bbc.com/bitesize/guides/zt8f4qt/revision/4)
+
 <div class="flexslider">
   <ul class="slides">
     <li>
