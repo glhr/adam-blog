@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  Final Project - Global Perspectives (Year 7)
@@ -14,6 +15,12 @@ author: glhr # Add name author (optional)
 ## Student work
 
 ### Human Rights
+
+> A right is a moral entitlement to have or do something. A human right is a right that belongs to everyone.
+> Human rights have not always been guaranteed and, even today, many people have their human rights ignored and abused.
+> We all have human rights. To ensure that we can all enjoy them, we must be aware of our responsibility to protect the human rights of others.
+
+Source: [Rights and responsibilities, BBC](https://www.bbc.com/bitesize/guides/z93ck7h/revision/2)
 
 <section class="slider">
 <div class="flexslider">
@@ -103,6 +110,12 @@ author: glhr # Add name author (optional)
 
 ### Globalisation
 
+> Globalisation is the process by which the world is becoming increasingly interconnected as a result of massively increased trade and cultural exchange.
+>  Globalisation has increased the production of goods and services. The biggest companies are no longer national firms but multinational corporations with subsidiaries in many countries.
+> Globalisation has been taking place for hundreds of years, but has sped up enormously over the last half-century.
+
+Source: [Globalisation, BBC](https://www.bbc.com/bitesize/guides/zxpn2p3/revision/1)
+
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -175,6 +188,14 @@ author: glhr # Add name author (optional)
 
 ### Health and Lifestyle
 
+> Staying healthy will help you to feel happier and stronger. There are lots of things you can do to stay healthy. You need to eat  **healthy foods**  and  **drink plenty of water.**  You also need to do  **lots of exercise**  and  **get enough sleep.**  You need to  **keep yourself clean,**  too.
+
+Source: [What do humans need to stay healthy?, BBC](https://www.bbc.com/bitesize/articles/zxvkd2p)
+
+> To keep healthy, it is vital to eat a **balanced diet**. This means eating foods that contain **nutrients** in the correct amount.
+
+Source: [What is a healthy diet?](https://www.bbc.com/bitesize/articles/zmwvgdm)
+
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -226,8 +247,6 @@ author: glhr # Add name author (optional)
     </li>
   </ul>
 </div>
-
-### Migration
 
 ## Detailed instructions
 
