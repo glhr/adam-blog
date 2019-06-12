@@ -92,8 +92,9 @@ html[xmlns] .flexslider .slides {
   zoom: 1;
 }
 .flexslider .slides img {
-  height: 400px;
+  max-height: 400px;
   width: auto;
+  height: auto;
   margin: auto;
   -moz-user-select: none;
 }
