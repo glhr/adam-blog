@@ -152,7 +152,7 @@ Source: [Globalisation, BBC](https://www.bbc.com/bitesize/guides/zxpn2p3/revisio
 		</p>
     </li>
     <li>
-		<a href='https://scratch.mit.edu/projects/259720082'>Scratch animation</a>
+		<a href='https://scratch.mit.edu/projects/259720082'>Scratch animation
 			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/hussein-nagi.png" />
 		</a>
 		<p class="flex-caption">Hussein Nagi (Year 7) - 
