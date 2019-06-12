@@ -121,7 +121,7 @@ Source: [Globalisation, BBC](https://www.bbc.com/bitesize/guides/zxpn2p3/revisio
 		<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
 			<img class="lazy" data-src="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh-thumb.jpg" />
 		</a>
-		<p class="flex-caption"> Mamdouh (Year 7) - 
+		<p class="flex-caption"> Mohamed Mamdouh (Year 7) - 
 			<a target="_blank" href="{{site.baseurl}}/assets/img/final-project/mohamed-mamdouh.png">
 			Poster 
 			</a>made with Adobe Spark
