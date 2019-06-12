@@ -47,6 +47,7 @@
 .flexslider .slides > li {
   display: none;
   -webkit-backface-visibility: hidden;
+  background: grey;
 }
 .flexslider .slides img {
   display: block;
@@ -79,7 +80,8 @@ html[xmlns] .flexslider .slides {
   position: relative;
   zoom: 1;
   width: 80%;
-  height: 400px;
+  max-height: 400px;
+  height: auto;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -95,7 +97,8 @@ html[xmlns] .flexslider .slides {
   max-height: 400px;
   width: auto;
   height: auto;
-  margin: auto;
+  margin: 10px auto;
+  border-radius: 30px;
   -moz-user-select: none;
 }
 .flex-viewport {
@@ -206,7 +209,7 @@ html[xmlns] .flexslider .slides {
 .flex-control-nav {
   width: 100%;
   position: absolute;
-  bottom: -100px;
+  bottom: -115px;
   text-align: center;
 }
 .flex-control-nav li {
