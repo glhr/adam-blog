@@ -15,6 +15,12 @@ author: glhr # Add name author (optional)
 
 ### Human Rights
 
+> A right is a moral entitlement to have or do something. A human right is a right that belongs to everyone.
+> Human rights have not always been guaranteed and, even today, many people have their human rights ignored and abused.
+> We all have human rights. To ensure that we can all enjoy them, we must be aware of our responsibility to protect the human rights of others.
+
+Source: [Rights and responsibilities, BBC](https://www.bbc.com/bitesize/guides/z93ck7h/revision/2)
+
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -85,6 +91,10 @@ author: glhr # Add name author (optional)
 
 ### Tradition and Culture
 
+> Culture is a pattern of behavior shared by a society, or group of people. Many different things make up a society’s culture. These things include food, language, clothing, tools, music, arts, customs, beliefs, and religion.
+
+Source: [Culture, Britannica](https://kids.britannica.com/kids/article/culture/399913#intro)
+
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -101,6 +111,10 @@ author: glhr # Add name author (optional)
 </div>
 
 ### Health and Lifestyle
+
+> Staying healthy will help you to feel happier and stronger. There are lots of things you can do to stay healthy. You need to eat  **healthy foods**  and  **drink plenty of water.**  You also need to do  **lots of exercise**  and  **get enough sleep.**  You need to  **keep yourself clean,**  too.
+
+Source: [What do humans need to stay healthy?, BBC](https://www.bbc.com/bitesize/articles/zxvkd2p)
 
 <div class="flexslider">
   <ul class="slides">
@@ -279,6 +293,11 @@ author: glhr # Add name author (optional)
 </div>
 
 ### Migration
+
+> Human migration is people moving from one place to another, to stay there. It often happens in large numbers. Migration can be within countries or between countries. Humans are known to have migrated extensively throughout history and prehistory.
+> Sometimes the movement is voluntary, but sometimes people are forced to move. They may suffer warfare, religious and political persecution, famine and other natural disasters. When people are forced to move, they are refugees. Many refugees are illegal immigrants and more than half are children and women. They may live in extreme poverty, lacking food, shelter, clothing, education and medical care.
+
+Source: [Human migration facts for kid](https://kids.kiddle.co/Human_migration)
 
 <div class="flexslider">
   <ul class="slides">
