@@ -9,7 +9,7 @@ author: glhr # Add name author (optional)
 ---
 ## Task
 
-> Apply a digital tool to a Global Perspectives topic.
+Apply a digital tool to a Global Perspectives topic.
 
 ## Student work
 
