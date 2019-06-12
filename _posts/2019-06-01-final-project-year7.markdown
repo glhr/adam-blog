@@ -9,7 +9,7 @@ author: glhr # Add name author (optional)
 ---
 ## Task
 
-> Apply a digital tool to a Global Perspectives topic.
+Apply a digital tool to a Global Perspectives topic.
 
 ## Student work
 
@@ -163,6 +163,10 @@ Source: [Globalisation, BBC](https://www.bbc.com/bitesize/guides/zxpn2p3/revisio
 </div>
 
 ### Tradition and Culture
+
+> Culture is a pattern of behavior shared by a society, or group of people. Many different things make up a society’s culture. These things include food, language, clothing, tools, music, arts, customs, beliefs, and religion.
+
+Source: [Culture, Britannica](https://kids.britannica.com/kids/article/culture/399913#intro)
 
 <div class="flexslider">
   <ul class="slides">
